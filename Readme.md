@@ -1,5 +1,7 @@
 # Project Initialization
 
+- 📚 Fronted:  [Nextjs-14 , TypeScript + Redux + Axios + Ant Desing]
+
 ## Next js install
 
 **Steps:**
